@@ -1,0 +1,21 @@
+Process
+==========================
+
+1. Create the basic clock layout.
+    o   Since this is going to be an analog clock, so it will have:
+        o   Hour hand
+        o   Minute hand
+        o   Second hand
+        o   Clock body
+        o   Hour numbers
+
+    o   Create a div for the clock clock itself
+    o   Within the clock div, create divs for each one of the components above.
+    o   For each element, create two classes: type (e.g. hand or number) and the specific element (e.g. hour, minute, second). 
+
+2. Style class:
+    o   Default values
+    o   body background
+    o   clock stylization
+        o   use of absolute/relative positioning for clock elements in relation to the clock itself.
+        o   
